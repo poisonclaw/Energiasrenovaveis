@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+h6 {
+    color: blue;
+    font-style: italic;
+    font-size: 30px;
+
+}
+
+input {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gray;
+}
+h1 {font-size: 25px;
+border-style: dotted;
+text-align: left;
+}
+h2 {text-align: left;
+}
+
+h3 {
+    text-align: left;
+}
+h4 {text-align: left;
+}
+header {font-size: 27px;
+font-style: italic;
+text-align: center;
+border-style: double;
+border-color: darkslategray;
+background-color: darkolivegreen;}
+
+#Solar {border-style: inset;
+border-radius: 15px;
+border-width: 10px;
+margin-left: 30%;
+}
+
+#eólica {
+    border-style: inset;
+border-radius: 15px;
+border-width: 10px;
+margin-left: 30%;
+}
