@@ -4,7 +4,7 @@ body {
 }
 
 h6 {
-    color: blue;
+    color: darkgoldenrod;
     font-style: italic;
     font-size: 30px;
 
@@ -20,7 +20,7 @@ h1 {font-size: 25px;
 border-style: dotted;
 text-align: left;
 }
-h2 {text-align: left;
+h2 {text-align: left; font-size: 20px;
 }
 
 h3 {
